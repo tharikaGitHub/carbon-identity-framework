@@ -177,5 +177,9 @@
     "POST_UPDATE_CREDENTIAL",
     "POST_UPDATE_CREDENTIAL_BY_ADMIN",
     "POST_SET_USER_CLAIMS"
+  ],
+  "identity_mgt.events.schemes.WorkflowPendingUserAuthentication.module_index": "31",
+  "identity_mgt.events.schemes.WorkflowPendingUserAuthentication.subscriptions": [
+    "PRE_AUTHENTICATION"
   ]
 }
